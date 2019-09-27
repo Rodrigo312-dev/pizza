@@ -1,0 +1,10 @@
+C:\Users\RODRIGO O\source\repos\Pizza2\Pizza2\bin\Debug\Pizza2.exe.config
+C:\Users\RODRIGO O\source\repos\Pizza2\Pizza2\bin\Debug\Pizza2.exe
+C:\Users\RODRIGO O\source\repos\Pizza2\Pizza2\bin\Debug\Pizza2.pdb
+C:\Users\RODRIGO O\source\repos\Pizza2\Pizza2\obj\Debug\Pizza2.csprojAssemblyReference.cache
+C:\Users\RODRIGO O\source\repos\Pizza2\Pizza2\obj\Debug\Pizza2.Form1.resources
+C:\Users\RODRIGO O\source\repos\Pizza2\Pizza2\obj\Debug\Pizza2.Properties.Resources.resources
+C:\Users\RODRIGO O\source\repos\Pizza2\Pizza2\obj\Debug\Pizza2.csproj.GenerateResource.cache
+C:\Users\RODRIGO O\source\repos\Pizza2\Pizza2\obj\Debug\Pizza2.csproj.CoreCompileInputs.cache
+C:\Users\RODRIGO O\source\repos\Pizza2\Pizza2\obj\Debug\Pizza2.exe
+C:\Users\RODRIGO O\source\repos\Pizza2\Pizza2\obj\Debug\Pizza2.pdb
